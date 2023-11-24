@@ -1,0 +1,94 @@
+# General
+[Oo]bj/
+[Bb]in/
+.vs/
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+
+# Visual Studio code coverage result
+*.coverage
+
+# Files built by Visual Studio
+*.cache
+*.ilk
+*.log
+*.pdb
+
+# Visual Studio profiler
+*.exe
+*.exe2
+*.log
+*.ti
+
+# Build results of an ATL project
+*.aps
+*.exp
+*.lib
+*.manifest
+*.dll
+*.pch
+*.obj
+
+# Test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NUNIT
+*.VisualState.xml
+TestResult.xml
+
+# Windows Installer files
+*.msi
+*.msm
+*.msp
+
+# Files used by Visual Studio
+*_i.c
+*_p.c
+*_i.h
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.xml
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# TeamCity
+_TeamCity*
+
+# DotCover
+*.dotCover
+
+# AxoCover
+.axoCover/*
+!.axoCover/settings.json
